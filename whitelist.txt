@@ -1,7 +1,6 @@
 ! Danh sach Whitelist tuy chinh
 @@||seoiclick.com^
 @@||api.seoiclick.com^
-@@||api.seoiclick.com^
 @@||otavietnam.com^
 @@||scovietnam.com^
 @@||tranxuanloc.com^
